@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<veiculos>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>769118a6-c4bd-44e3-a4e5-7a9a774de3fe</Id>
+    <Placa>ABC1234</Placa>
+    <Ano>2014</Ano>
+    <Observacao>Observação</Observacao>
+    <Modelo>
+      <Id>3</Id>
+      <Nome>Focus</Nome>
+      <Marca>
+        <Id>2</Id>
+        <Nome>Ford</Nome>
+      </Marca>
+    </Modelo>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Flex</Combustivel>
+    <Cambio>Manual</Cambio>
+  </Veiculo>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>118576ef-e26d-4987-9b1c-f3fc0d3fc8f9</Id>
+    <Placa>CRI2008</Placa>
+    <Ano>2018</Ano>
+    <Observacao>OK </Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Flex</Combustivel>
+    <Cambio>Automatico</Cambio>
+  </Veiculo>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>7becc2c8-d25c-4d10-93bb-3d25ba0f4759</Id>
+    <Placa>CRI2008</Placa>
+    <Ano>2017</Ano>
+    <Observacao> OK</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Hibrido</Combustivel>
+    <Cambio>Automatico</Cambio>
+  </Veiculo>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>2339faf4-e9c3-4e8d-a813-0038d7a2c034</Id>
+    <Placa>CRI2008</Placa>
+    <Ano>2017</Ano>
+    <Observacao> OK</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Hibrido</Combustivel>
+    <Cambio>Automatico</Cambio>
+  </Veiculo>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>432e28ce-27a7-4207-86ee-8da00b2f5564</Id>
+    <Placa>CRI2008</Placa>
+    <Ano>2017</Ano>
+    <Observacao> OK</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Hibrido</Combustivel>
+    <Cambio>Automatico</Cambio>
+  </Veiculo>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>1506c738-7c38-4e59-8bf5-42bd9a70eaa8</Id>
+    <Placa>CRI2008</Placa>
+    <Ano>2017</Ano>
+    <Observacao> OK</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Hibrido</Combustivel>
+    <Cambio>Automatico</Cambio>
+  </Veiculo>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>6ee5432c-bd16-4e4d-a2b0-6e219d6cc00e</Id>
+    <Placa>CRI2008</Placa>
+    <Ano>2017</Ano>
+    <Observacao> OK</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Hibrido</Combustivel>
+    <Cambio>Automatico</Cambio>
+  </Veiculo>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>9e493992-cc80-4dba-a3a8-0476c0cfeda2</Id>
+    <Placa>CRI2008</Placa>
+    <Ano>2017</Ano>
+    <Observacao> OK</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Hibrido</Combustivel>
+    <Cambio>Automatico</Cambio>
+  </Veiculo>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>e966d266-5064-4076-a46f-11472bc17c56</Id>
+    <Placa>CRI2008</Placa>
+    <Ano>2017</Ano>
+    <Observacao> OK</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Hibrido</Combustivel>
+    <Cambio>Automatico</Cambio>
+  </Veiculo>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>7b254b4c-7a32-4b11-952e-b17c1d2aeb9f</Id>
+    <Placa>CRI2008</Placa>
+    <Ano>2017</Ano>
+    <Observacao> OK</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Hibrido</Combustivel>
+    <Cambio>Automatico</Cambio>
+  </Veiculo>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>6c00fa00-d496-4e52-8a88-31f0920133e5</Id>
+    <Placa>CRI2008</Placa>
+    <Ano>2017</Ano>
+    <Observacao> OK</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Hibrido</Combustivel>
+    <Cambio>Automatico</Cambio>
+  </Veiculo>
+  <Veiculo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>562cf1fd-49f8-4752-b009-c91a49d9ff98</Id>
+    <Placa>CRI2008</Placa>
+    <Ano>2017</Ano>
+    <Observacao> OK</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Hibrido</Combustivel>
+    <Cambio>Automatico</Cambio>
+  </Veiculo>
+</veiculos>
