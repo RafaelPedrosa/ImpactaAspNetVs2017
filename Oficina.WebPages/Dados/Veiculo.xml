@@ -152,4 +152,134 @@
     <Combustivel>Hibrido</Combustivel>
     <Cambio>Automatico</Cambio>
   </Veiculo>
+  <VeiculoPasseio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>92cdc8cd-4c5e-4fc2-a040-4427e3ed1040</Id>
+    <Placa>ABC2014</Placa>
+    <Ano>2018</Ano>
+    <Observacao> ok</Observacao>
+    <Cor>
+      <Id>2</Id>
+      <Nome>Amarelo</Nome>
+    </Cor>
+    <Combustivel>Alcool</Combustivel>
+    <Cambio>Manual</Cambio>
+    <Carroceria>Hatch</Carroceria>
+  </VeiculoPasseio>
+  <VeiculoPasseio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>cbb9e996-02d5-4221-9f9f-046d5f5eaff8</Id>
+    <Placa>ABC2014</Placa>
+    <Ano>2018</Ano>
+    <Observacao> ok</Observacao>
+    <Cor>
+      <Id>2</Id>
+      <Nome>Amarelo</Nome>
+    </Cor>
+    <Combustivel>Alcool</Combustivel>
+    <Cambio>Manual</Cambio>
+    <Carroceria>Hatch</Carroceria>
+  </VeiculoPasseio>
+  <VeiculoPasseio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>cece92cd-133b-4fe8-b81c-cfe8fa75ba0c</Id>
+    <Placa>ABC2014</Placa>
+    <Ano>2018</Ano>
+    <Observacao> ok</Observacao>
+    <Cor>
+      <Id>2</Id>
+      <Nome>Amarelo</Nome>
+    </Cor>
+    <Combustivel>Alcool</Combustivel>
+    <Cambio>Manual</Cambio>
+    <Carroceria>Hatch</Carroceria>
+  </VeiculoPasseio>
+  <VeiculoPasseio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>d522f037-5edf-4399-9ff1-fd5b91141e1d</Id>
+    <Placa>ABC2014</Placa>
+    <Ano>2018</Ano>
+    <Observacao> ok</Observacao>
+    <Cor>
+      <Id>2</Id>
+      <Nome>Amarelo</Nome>
+    </Cor>
+    <Combustivel>Alcool</Combustivel>
+    <Cambio>Manual</Cambio>
+    <Carroceria>Hatch</Carroceria>
+  </VeiculoPasseio>
+  <VeiculoPasseio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>bc697d92-a413-4043-85c7-df5f58f3e9af</Id>
+    <Placa>ART3697</Placa>
+    <Ano>2018</Ano>
+    <Observacao>OK </Observacao>
+    <Cor>
+      <Id>3</Id>
+      <Nome>Azul</Nome>
+    </Cor>
+    <Combustivel>Hibrido</Combustivel>
+    <Cambio>Automatizado</Cambio>
+    <Carroceria>Hatch</Carroceria>
+  </VeiculoPasseio>
+  <VeiculoPasseio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>034fb309-8743-41c6-998f-5409da1bf23d</Id>
+    <Placa>ART3697</Placa>
+    <Ano>2018</Ano>
+    <Observacao>OK </Observacao>
+    <Cor>
+      <Id>3</Id>
+      <Nome>Azul</Nome>
+    </Cor>
+    <Combustivel>Hibrido</Combustivel>
+    <Cambio>Automatizado</Cambio>
+    <Carroceria>Hatch</Carroceria>
+  </VeiculoPasseio>
+  <VeiculoPasseio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>323c1cdf-4b97-4740-81b2-0542a1fdafd5</Id>
+    <Placa>ART3697</Placa>
+    <Ano>2018</Ano>
+    <Observacao>OK </Observacao>
+    <Cor>
+      <Id>2</Id>
+      <Nome>Amarelo</Nome>
+    </Cor>
+    <Combustivel>Gasolina</Combustivel>
+    <Cambio>Automatico</Cambio>
+    <Carroceria>Hatch</Carroceria>
+  </VeiculoPasseio>
+  <VeiculoPasseio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>c69975ce-a0a7-455f-b3d8-655f023942e1</Id>
+    <Placa>ART3697</Placa>
+    <Ano>2018</Ano>
+    <Observacao>OK </Observacao>
+    <Cor>
+      <Id>2</Id>
+      <Nome>Amarelo</Nome>
+    </Cor>
+    <Combustivel>Gasolina</Combustivel>
+    <Cambio>Automatico</Cambio>
+    <Carroceria>Hatch</Carroceria>
+  </VeiculoPasseio>
+  <VeiculoPasseio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>7c5b9dcc-1678-495f-b9df-c42c550da74a</Id>
+    <Placa>CRI2008</Placa>
+    <Ano>2018</Ano>
+    <Observacao> ok</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Alcool</Combustivel>
+    <Cambio>Automatico</Cambio>
+    <Carroceria>Hatch</Carroceria>
+  </VeiculoPasseio>
+  <VeiculoPasseio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>2f57281c-7256-40ce-8005-26757be1e8a9</Id>
+    <Placa>CRI2008</Placa>
+    <Ano>2018</Ano>
+    <Observacao> ok</Observacao>
+    <Cor>
+      <Id>1</Id>
+      <Nome>Preto</Nome>
+    </Cor>
+    <Combustivel>Alcool</Combustivel>
+    <Cambio>Automatico</Cambio>
+    <Carroceria>Hatch</Carroceria>
+  </VeiculoPasseio>
 </veiculos>

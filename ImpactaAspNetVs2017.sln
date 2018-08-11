@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oficina.Repositorios.Sistem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oficina.WebPages", "Oficina.WebPages\Oficina.WebPages.csproj", "{99B32AB1-7BB2-41E3-A8EF-C30E674447C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetVS2017.Capitulo2.Http.Testes", "AspNetVS2017.Capitulo2.Http.Testes\AspNetVS2017.Capitulo2.Http.Testes.csproj", "{C78D11D3-5543-48DB-AADE-F0960295DA53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetVS2017.Capitulo03.Mvc.Portfolio", "AspNetVS2017.Capitulo03.Mvc.Portfolio\AspNetVS2017.Capitulo03.Mvc.Portfolio.csproj", "{B50307E7-8785-4189-BBFF-41D2C6E880D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +75,14 @@ Global
 		{99B32AB1-7BB2-41E3-A8EF-C30E674447C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99B32AB1-7BB2-41E3-A8EF-C30E674447C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99B32AB1-7BB2-41E3-A8EF-C30E674447C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C78D11D3-5543-48DB-AADE-F0960295DA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78D11D3-5543-48DB-AADE-F0960295DA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78D11D3-5543-48DB-AADE-F0960295DA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78D11D3-5543-48DB-AADE-F0960295DA53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B50307E7-8785-4189-BBFF-41D2C6E880D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50307E7-8785-4189-BBFF-41D2C6E880D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50307E7-8785-4189-BBFF-41D2C6E880D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50307E7-8785-4189-BBFF-41D2C6E880D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
