@@ -8,6 +8,8 @@ namespace AspNetVS2017.Capitulo03.Mvc.Portfolio.Models
         //Regular Expression é um conceito de verificar se um conteúdo esta reespietando um padrão
         //EmailAddres Verifica se o email digitado está no padrão de um email
 
+        //Especifica a necessidade de campos.
+
         [Required]
         public string Nome { get; set; }
 

@@ -21,10 +21,12 @@ namespace AspNetVS2017.Capitulo03.Mvc.Portfolio
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
                       "~/Scripts/bootstrap.js",
-                      "~/Scripts/respond.js"));
+                      "~/Scripts/respond.js",
+                      "~/Scripts/jquery.fancybox.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
+                      "~/Content/jquery.fancybox.css",
                       "~/Content/site.css"));
         }
     }

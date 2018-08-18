@@ -28,6 +28,8 @@ namespace AspNetVS2017.Capitulo03.Mvc.Portfolio.Controllers
             return View();
         }
 
+
+        //Controler é uma classe e seus métodos são chamados de action
         [HttpPost]
         //public ActionResult Contact(string nome, string email, string mensagem)
         public ActionResult Contact(ContatoViewModel viewModel)
@@ -55,7 +57,7 @@ namespace AspNetVS2017.Capitulo03.Mvc.Portfolio.Controllers
                                                        ,@Email
                                                        ,@Mensagem)
                                             ";
-                //Usando as conexãoes. Primeiro passo o paramentro de instrução e depois a de conexão
+                //Usando as conexões. Primeiro passo o paramentro de instrução do banco e depois a de conexão com o banco 
                 using (var comando = new SqlCommand(instrucao, conexao)) 
                 {
                     comando.Parameters.AddWithValue("@Nome", viewModel.Nome); // Aqui faço as referências sobre quais campos do banco representam as minhas váriaveis da pag web
